@@ -1,0 +1,3 @@
+[submodule "computer"]
+	path = computer
+	url = https://github.com/UWARG/TestingSideComputer.git
